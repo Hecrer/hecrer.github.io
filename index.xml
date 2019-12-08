@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hecrer</title>
-    <link>http://example.org/</link>
+    <link>https://hecrer.github.io/</link>
     <description>Recent content on Hecrer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hecrer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://hecrer.github.io/about/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://hecrer.github.io/about/</guid>
       <description>Hi there!
 I go by Hecrer and I usually work as a Software Engineer, but this site is a place for my music and doodles and maybe a few other things too. I hope you have a good time here!</description>
     </item>
     
     <item>
       <title>Valtteri Bottas</title>
-      <link>http://example.org/posts/bottas/</link>
+      <link>https://hecrer.github.io/posts/bottas/</link>
       <pubDate>Wed, 13 Nov 2019 18:47:51 +0000</pubDate>
       
-      <guid>http://example.org/posts/bottas/</guid>
+      <guid>https://hecrer.github.io/posts/bottas/</guid>
       <description>&#34;Valtteri, it&#39;s James.&#34; I&amp;rsquo;ve been working on some art for a new project that expands the service our Server Manager provides for Assetto Corsa. Here&amp;rsquo;s Bottas.
 This was my first time using an iPad (the iPad Pro 2018, that I borrowed) to draw something, and i&amp;rsquo;m pretty happy with how it came out! Mixing the &amp;ldquo;real&amp;rdquo; feeling of using a traditional pencil directly onto a drawing surface with all of the added benefits that come with working in art software really does create a powerful and unique experience.</description>
     </item>
