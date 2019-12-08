@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hecrer</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Hecrer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2019 18:47:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Valtteri Bottas</title>
+      <link>http://example.org/posts/bottas/</link>
+      <pubDate>Wed, 13 Nov 2019 18:47:51 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bottas/</guid>
+      <description>&#34;Valtteri, it&#39;s James.&#34; I&amp;rsquo;ve been working on some art for a new project that expands the service our Server Manager provides for Assetto Corsa. Here&amp;rsquo;s Bottas.
+This was my first time using an iPad (the iPad Pro 2018, that I borrowed) to draw something, and i&amp;rsquo;m pretty happy with how it came out! Mixing the &amp;ldquo;real&amp;rdquo; feeling of using a traditional pencil directly onto a drawing surface with all of the added benefits that come with working in art software really does create a powerful and unique experience.</description>
+    </item>
+    
+  </channel>
+</rss>
