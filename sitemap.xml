@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hecrer.github.io/posts/chasing_cars/</loc>
+    <lastmod>2019-12-16T17:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hecrer.github.io/</loc>
+    <lastmod>2019-12-16T17:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hecrer.github.io/posts/</loc>
+    <lastmod>2019-12-16T17:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hecrer.github.io/about/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hecrer.github.io/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hecrer.github.io/posts/chapel_song/</loc>
-    <lastmod>2019-11-23T13:28:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hecrer.github.io/posts/</loc>
     <lastmod>2019-11-23T13:28:51+00:00</lastmod>
   </url>
   
